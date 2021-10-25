@@ -2,10 +2,9 @@
 A sub-vi for LABVIEW 2019 because I'm sick of copying the same file over and over again
 
 # To use this:
-1. Click on the 'Code' drop-down menu and select 'Download ZIP'
-2. Extract the file to a location of your choice on your computer
-3. In the block diagram menu of your LABVIEW project, right click and select 'Select a VI...'
-4. Choose the .vi from the location you saved it to
+1. Click on 'r_from_voltage_divider.vi' above and then click the download button on the right.
+2. In the block diagram menu of your LABVIEW project, right click and select 'Select a VI...'
+3. Choose the .vi from the location you saved it to
 
 # Inputs/outputs:
 Known Resistance: (input)
