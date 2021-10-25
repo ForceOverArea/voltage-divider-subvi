@@ -9,7 +9,7 @@ A sub-vi for LABVIEW 2019 because I'm sick of copying the same file over and ove
 
 # Inputs/outputs:
 Known Resistance: (input)
-The resistance (ohms) of your known resistor (duh.) This can be supplied from a numeric control or measured in real via DMM port.
+The resistance (ohms) of your known resistor (duh.) This can be supplied from a numeric control or measured in real time via DMM port.
 
 Supplied voltage: (input)
 The voltage applied across both resistors. This can also be supplied from a numeric control or measured in real time via analog in (ai0, ai1) port.
