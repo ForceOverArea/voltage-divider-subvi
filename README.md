@@ -8,14 +8,14 @@ A sub-vi for LABVIEW 2019 because I'm sick of copying the same file over and ove
 4. Choose the .vi from the location you saved it to
 
 # Inputs/outputs:
-Known Resistance: (input) \n
+Known Resistance: (input)
 The resistance (ohms) of your known resistor (duh.) This can be supplied from a numeric control or measured in real via DMM port.
 
-Supplied voltage: (input) \n
+Supplied voltage: (input)
 The voltage applied across both resistors. This can also be supplied from a numeric control or measured in real time via analog in (ai0, ai1) port.
 
-Measured voltage: (input) \n
+Measured voltage: (input)
 The voltage measured across your unknown resistor/thermistor/photoresistor/strain gauge/etc.
 
-Measured resistance: (output) \n
+Measured resistance: (output)
 The resistance of the unknown resistor in ohms. This is what you should convert to temperature, wind speed, light level, strain, etc.
